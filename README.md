@@ -1,7 +1,13 @@
 # BUBBLEGAME
-HI !
-I AM MUHAMMDTOUQEER!
-I AM NEW FRONTEND EXPERIENCED WEBDEVELOPER!!
-SO IF U WANT ANY THING TO BE CREATED FROM ME SO
-U CAN CONTACT ME  AT
-chadrytouqeerx@gmail.com
+- 👋 Hi, I’m @CHTOUQEERJUTT
+- 👀 I’m interested in FULL-STACK DEVELOPMENT...
+- 🌱 I’m currently learning JS...
+- 💞️ I’m looking to collaborate on MY UPCOMING PROJECTS...
+- 📫 How to reach mE
+- chaudrytouqeerx@gmail.com
+- ...
+
+<!---
+CHTOUQEERJUTT/CHTOUQEERJUTT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
